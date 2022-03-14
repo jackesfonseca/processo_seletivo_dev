@@ -26,7 +26,6 @@ O desafio deverá ser desenvolvido utilizando uma linguagem e biblioteca da sua 
 Consiste na elaboração de um formulário dinâmico. Na aplicação, o front-end recebe um arquivo JSON que irá constitui os campos do formulário. O usuário irá preencher os campos com os dados solicitados e o resultado será repassado também em formato JSON.
 
 <center>
-	<figcaption> Tela do formulário </figcaption>
 	<img class="center" src="https://user-images.githubusercontent.com/53023400/158162509-ed99eef5-9332-4dee-928c-57b7195b0614.png">
 </center>
 
