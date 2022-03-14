@@ -27,7 +27,7 @@ Consiste na elaboração de um formulário dinâmico. Na aplicação, o front-en
 
 <center>
 	<figcaption> Tela do formulário </figcaption>
-	<img class="center" src="https://user-images.githubusercontent.com/53023400/158162509-ed99eef5-9332-4dee-928c-57b7195b0614.png)">
+	<img class="center" src="https://user-images.githubusercontent.com/53023400/158162509-ed99eef5-9332-4dee-928c-57b7195b0614.png">
 </center>
 
 ### Execução da aplicação
@@ -43,6 +43,7 @@ Para executar a aplicação deve-se:
 - Javascript
 - HTML
 - CSS
+- JSON
 - Versionamento de código
 - Responsividade
 - Clean Code
